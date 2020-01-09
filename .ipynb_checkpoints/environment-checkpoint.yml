@@ -1,0 +1,20 @@
+name: agaramow
+
+channels:
+  - defaults
+  
+dependencies:
+- python=3.6
+- jupyter
+- jupyterlab=0.35.4
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scipy
+- pip
+- tzlocal
+
+- pip:
+  - rpy2==2.9.4
+
